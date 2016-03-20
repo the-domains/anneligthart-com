@@ -5,23 +5,25 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "MASSAGE makes the world feel a whole lot smoother.....with over twenty years of hands on ;) experience in bodywork and massage, I have evolved my own form and style.\_"
-datePublished: '2016-03-19T08:47:26.074Z'
-dateModified: '2016-03-19T07:33:12.417Z'
+description: "\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_MASSAGE\_"
+datePublished: '2016-03-20T09:33:20.723Z'
+dateModified: '2016-03-20T09:28:31.053Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-19-massage-makes-the-world-feel-a-whole-lot-smootherwith-o.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-19-massage-makes-the-world-feel-a-whole-lot-smootherwith-o.md
-published: true
 url: massage-makes-the-world-feel-a-whole-lot-smootherwith-o/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f460e52d-f23b-408c-a182-2cdd13b25e3d.jpg)
+
 MASSAGE 
 
 makes the world feel a whole lot smoother.....with over twenty years of hands on ;) experience in bodywork and massage, I have evolved my own form and style. 
