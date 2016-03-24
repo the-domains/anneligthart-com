@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "\_ \_ \_MINDFULNESS COURSES FOR CHILDREN AGED 5 YEARS TO 18 \_ \_ \_ \_ \_YEARS."
-datePublished: '2016-03-20T09:42:48.156Z'
-dateModified: '2016-03-18T08:36:36.931Z'
+description: "\_ \_ \_MINDFULNESS COURSES FOR CHILDREN AND YOUTH, AGED 5 \_TO 18 YEARS."
+datePublished: '2016-03-24T04:45:48.602Z'
+dateModified: '2016-03-24T04:45:43.626Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-18-mindfulness-courses-for-children-aged-5-years-to-18.md
@@ -22,9 +22,10 @@ url: mindfulness-courses-for-children-aged-5-years-to-18/index.html
 _type: Article
 
 ---
+'...allow our bodies to become quiet, to let our eyes close, to notice our body breathing...'
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d43f1319-ff05-46de-b270-bf6c6bb73eeb.jpg)
 
-MINDFULNESS COURSES FOR CHILDREN AGED 5 YEARS TO 18          YEARS.
+MINDFULNESS COURSES FOR CHILDREN AND YOUTH, AGED 5  TO 18 YEARS.
 
 In direct response to the witnessing of children in distress, I am now working in Mindfulness, through my own practice and through the teaching of this powerful, and life-changing model. 
 
