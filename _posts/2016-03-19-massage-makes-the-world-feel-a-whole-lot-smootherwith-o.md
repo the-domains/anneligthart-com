@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_MASSAGE\_"
-datePublished: '2016-03-20T09:33:20.723Z'
-dateModified: '2016-03-20T09:28:31.053Z'
+datePublished: '2016-03-28T23:30:19.670Z'
+dateModified: '2016-03-28T23:30:08.111Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-19-massage-makes-the-world-feel-a-whole-lot-smootherwith-o.md
@@ -26,8 +26,12 @@ _type: Article
 
 MASSAGE 
 
-makes the world feel a whole lot smoother.....with over twenty years of hands on ;) experience in bodywork and massage, I have evolved my own form and style. 
+makes the world feel a whole lot smoother.....with over twenty years of hands on ;) experience in bodywork and massage, I have evolved my own form and style. No massage is the same, and it is created as you need it to be. 
 
-Tuning not just into your body, but your senses and ensuring that you get what you ask for, is my specialty. 
+Today, we are more and more individual and also separate than ever - massage replicates the experience of connection that is compromised in our present world. 
 
-No Sexual Massage offered. (Though I am happy to refer you!)
+Massage is not isolated to simply a physical giving and receiving, but a connection between both giver and receiver. Although the medium is through the body, this is only a gateway to a deeply rich and healing experience for both therapist and client. When massage is treated with the potential it truly has, it can provide a connective passage to health. 
+
+As part of the massage treatment, I use stretching and release technique through the jaw, shoulders, hips and feet. Breathing is also given attention and it is important to work with the scalp and feet to ensure deep relaxation. 
+
+No Sexual Massage offered. (Though I do appreciate the therapeutic need for sexual release and connection but do not offer this as a service. However, I am happy to refer you!)
