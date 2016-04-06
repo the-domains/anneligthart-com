@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "\_ \_ \_MINDFULNESS COURSES FOR CHILDREN AND YOUTH, AGED 5 \_TO 18 YEARS."
-datePublished: '2016-03-27T06:43:20.176Z'
-dateModified: '2016-03-27T06:42:28.647Z'
+datePublished: '2016-04-06T10:29:03.467Z'
+dateModified: '2016-04-06T10:28:56.615Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-18-mindfulness-courses-for-children-aged-5-years-to-18.md
@@ -29,8 +29,9 @@ MINDFULNESS COURSES FOR CHILDREN AND YOUTH, AGED 5  TO 18 YEARS.
 
 In direct response to the witnessing of children in distress, I am now working in Mindfulness, through my own practice and through the teaching of this powerful, and life-changing model. 
 
-Mindfulness courses are held on request also one to one. They can be tailored to suit, with courses for Primary Schools running up to 8 weeks, and courses for High Schools, up to 20 weeks in duration.  
+Mindfulness courses are held on request also one to one. They can be tailored to suit, with courses for Primary Schools running up to 8 weeks, and courses for High Schools, up to 23 weeks in duration.  
 
-Please contact for more information. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/45dbbc8f-2048-4116-8f77-3f74e7a51fd1.jpg)
+Please contact me for more information. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/45dbbc8f-2048-4116-8f77-3f74e7a51fd1.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b9c8f72-21e1-4949-90dd-cee5c6ac1b8d.jpg)
 
 ..."if we do not mentor our young, they will burn down the village to feel the heat."   -
