@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "\_ \_ \_MINDFULNESS COURSES FOR CHILDREN AND YOUTH, AGED 5 \_TO 18 YEARS."
-datePublished: '2016-04-11T02:38:00.621Z'
-dateModified: '2016-04-11T02:33:32.539Z'
+datePublished: '2016-04-11T02:38:22.085Z'
+dateModified: '2016-04-11T02:38:16.008Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-18-mindfulness-courses-for-children-aged-5-years-to-18.md
