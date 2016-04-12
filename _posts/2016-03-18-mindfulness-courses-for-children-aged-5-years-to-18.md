@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'In direct response to the witnessing of children in distress, I am now working in Mindfulness, through my own practice and through the teaching of this powerful, and life-changing model. Mindfulness as a practice is fast becoming popular as a method of returning to clarity and calm. With continued research into the benefits of Mindfulness with children, these programs are showing profound and lasting results for the individuals, and improvements in whole cultures and productivity.'
-datePublished: '2016-04-12T05:54:27.312Z'
-dateModified: '2016-04-12T05:53:44.270Z'
+datePublished: '2016-04-12T05:54:52.744Z'
+dateModified: '2016-04-12T05:54:39.290Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-18-mindfulness-courses-for-children-aged-5-years-to-18.md
