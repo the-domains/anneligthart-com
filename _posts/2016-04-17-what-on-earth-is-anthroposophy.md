@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: undefined
-datePublished: '2016-04-17T09:34:30.759Z'
-dateModified: '2016-04-17T09:34:11.069Z'
+datePublished: '2016-04-17T09:38:09.631Z'
+dateModified: '2016-04-17T09:37:53.614Z'
 title: ''
 author: []
 authors: []
@@ -32,7 +32,7 @@ The word "anthroposophy" means "wisdom of the human being," or, for us today, "a
 Knowledge of spirit can only be found by spiritual means. Anthroposophy offers an inner path of schooling to attain such knowledge. It takes its starting point from modern critical consciousness and our contemporary orientation toward technology and science. It is a kind of study and schooling that leads to concrete experience of the spiritual dimensions of the human being and the world.
 Spiritual knowledge can be fruitful in various fields of life -- in art, religion and science. Examples are education, medicine, pharmacy, agriculture, social work, economics and much else. Over time, about 10,000 institutions and initiatives have been founded that endeavor to apply anthroposophy: schools (often called Rudolf Steiner schools, Waldorf schools or independent schools), homes, workshops and schools working within curative education and social therapy, clinics, doctor's practices, pharmaceutical companies, biodynamic farms, banks, art schools, stage groups, businesses, etc. The thing that connects these endeavors to the Goetheanum is their mutual basis in anthroposophy.
 
-Rudolf Steiner 1861-1925
+**Rudolf Steiner 1861-1925**
 
 Rudolf Steiner was born on February 27, 1861 in what is now Croatia and died on March 30, 1925 in Dornach, Switzerland.
 Words to describe the work of Rudolf Steiner: unusual -- not easy to approach -- filled with stimulating ideas. His monumental projects of drafting an alternative science, a new pedagogy, new perspectives in medicine and agriculture have entered into the spiritual heritage of the present time. They live in today's cultural life as an impulse and an inspiration.
@@ -54,4 +54,7 @@ Therapeutic procedures:
 **Pyschotherapy and biography work**, including advice on self-development and meditative training.
 Internationally recognised therapy programme for addiction. 
 
-Close collaboration with educationalists, support for school physicians, and worldwide practice of the anthroposophic conception of support based on curative education and social therapy in over 350 facilities, including the Camphill movement in 26 European and 12 other countries worldwide.
+**Close collaboration with educationalists**, support for school physicians, and worldwide practice of the anthroposophic conception of support based on curative education and social therapy in over 350 facilities, including the Camphill movement in 26 European and 12 other countries worldwide.
+
+**Anthroposophic medicine **is an integrative concept for diagnosis and therapy. It combines natural science-based academic medicine with Rudolf Steiner's anthroposophy (1861-1925) and is practiced today in over 60 countries.
+The direct reference to the essence of the human being and his or her mental and spiritual needs focuses this form of medicine on the patient and relates it closely to life. Anthroposophic physicians undergo the ordinary general and specialist medical training and supplement it with the study of the anthroposophical image of the human being and the world. Great value is placed on informing the patient comprehensively about his or her condition and involving him or her as far as possible actively in the recovery process. Anthroposophic medicines can be taken internally, used in the form of subcutaneous or intravenous injections, or in the form of wraps, embrocations, and partial and full baths. Therapeutic eurythmy, rhythmical massage, art therapies as well as a preventative concept which includes education and self-education make anthroposophic medicine a comprehensive medical system.
