@@ -4,7 +4,7 @@
         <description><![CDATA[AnneLigthart.com]]></description>
         <link>https://thegrid.ai/anneligthart-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 06:05:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 09:53:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/anneligthart-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/anneligthart-com/efcc1bed-fd40-4f03-ba6f-5e8020712906/index.html</link>
             <guid isPermaLink="false">efcc1bed-fd40-4f03-ba6f-5e8020712906</guid>
             <pubDate>Mon, 18 Apr 2016 05:05:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3e8887b-7801-4c14-9f40-608fcb65a3af.jpg">]]></description>
+            <link>https://thegrid.ai/anneligthart-com/ca0e637b-749a-4a1b-981f-3649635f03ef/index.html</link>
+            <guid isPermaLink="false">ca0e637b-749a-4a1b-981f-3649635f03ef</guid>
+            <pubDate>Mon, 18 Apr 2016 09:51:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -78,13 +85,6 @@ Bernard Lievegoed, -  'The battle for the soul'</p>]]></description>
             <link>https://thegrid.ai/anneligthart-com/d82146ab-a667-4990-959a-c6ba18e5dd31/index.html</link>
             <guid isPermaLink="false">d82146ab-a667-4990-959a-c6ba18e5dd31</guid>
             <pubDate>Wed, 13 Apr 2016 06:16:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b298a485-819b-4e41-aaa2-b123b44c5398.jpg">]]></description>
-            <link>https://thegrid.ai/anneligthart-com/3764e510-3087-4d2a-aa50-bc63d5fca5af/index.html</link>
-            <guid isPermaLink="false">3764e510-3087-4d2a-aa50-bc63d5fca5af</guid>
-            <pubDate>Mon, 11 Apr 2016 10:45:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
