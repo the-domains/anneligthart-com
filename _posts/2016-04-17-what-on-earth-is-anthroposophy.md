@@ -5,26 +5,26 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: undefined
-datePublished: '2016-04-17T09:38:09.631Z'
-dateModified: '2016-04-17T09:37:53.614Z'
+description: "\_ WHAT ON EARTH IS ANTHROPOSOPHY?\_"
+datePublished: '2016-04-18T02:01:25.841Z'
+dateModified: '2016-04-18T02:01:16.840Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-17-what-on-earth-is-anthroposophy.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-17-what-on-earth-is-anthroposophy.md
-published: true
 url: what-on-earth-is-anthroposophy/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e356a68-2862-419e-9e8b-b4d9a9afbbb9.jpg)
+> **WHAT ON EARTH IS ANTHROPOSOPHY? **
 
-**WHAT ON EARTH IS ANTHROPOSOPHY? **
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e356a68-2862-419e-9e8b-b4d9a9afbbb9.jpg)
 
 "Anthroposophy is a path of knowledge aiming to guide the spiritual element in the human being to the spiritual in the universe." - Rudolf Steiner 
 
