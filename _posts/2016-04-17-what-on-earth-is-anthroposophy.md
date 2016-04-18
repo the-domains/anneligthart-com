@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-18T05:01:49.272Z'
-dateModified: '2016-04-18T05:01:30.697Z'
+datePublished: '2016-04-18T22:36:06.935Z'
+dateModified: '2016-04-18T05:01:53.037Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-17-what-on-earth-is-anthroposophy.md
