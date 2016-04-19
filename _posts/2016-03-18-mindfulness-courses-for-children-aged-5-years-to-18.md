@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'I am qualified to conduct courses in Mindfulness, through my private practice and as an outside provider bringing the teaching of this beautiful model. Mindfulness as a practice is fast becoming popular as a method of returning to clarity and calm. With continued research into the benefits of Mindfulness with children, these programs are showing profound and lasting results for the individuals, and improvements in whole cultures and productivity.'
-datePublished: '2016-04-19T11:57:05.571Z'
-dateModified: '2016-04-19T11:56:59.824Z'
+datePublished: '2016-04-19T23:37:18.715Z'
+dateModified: '2016-04-19T23:37:10.419Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-18-mindfulness-courses-for-children-aged-5-years-to-18.md
@@ -22,7 +22,7 @@ url: mindfulness-courses-for-children-aged-5-years-to-18/index.html
 _type: Article
 
 ---
-# Empowering Children Supporting Teachers Transforming Schools
+# Empowering Children \* Supporting Teachers \*Transforming Schools \*
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ce10327-aeeb-4dcd-9990-3a3a22b25403.jpg)
 
 ## '...allow our bodies to become quiet, to let our eyes close, to notice our body breathing...'
