@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'I am qualified to conduct courses in Mindfulness, through my private practice and as an outside provider bringing the teaching of this beautiful model. Mindfulness as a practice is fast becoming popular as a method of returning to clarity and calm. With continued research into the benefits of Mindfulness with children, these programs are showing profound and lasting results for the individuals, and improvements in whole cultures and productivity.'
-datePublished: '2016-04-20T04:34:18.928Z'
-dateModified: '2016-04-20T04:34:12.533Z'
+description: 'I conduct courses in Mindfulness, through my private practice and as an outside provider for schools, bringing the teaching of this beautiful model. Mindfulness as a practice is fast becoming popular as a method of returning to clarity and calm. With continued research into the benefits of Mindfulness with children, these programs are showing profound and lasting results for the individuals, and improvements in whole cultures and productivity.'
+datePublished: '2016-04-20T05:03:01.998Z'
+dateModified: '2016-04-20T05:02:53.667Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-18-mindfulness-courses-for-children-aged-5-years-to-18.md
@@ -26,7 +26,7 @@ _type: Article
 
 ## '...allow our bodies to become quiet, to let our eyes close, to notice our body breathing...'
 
-I am qualified to conduct courses in Mindfulness, through my private practice and as an outside provider bringing the teaching of this beautiful model. Mindfulness as a practice is fast becoming popular as a method of returning to clarity and calm. With continued research into the benefits of Mindfulness with children, these programs are showing profound and lasting results for the individuals, and improvements in whole cultures and productivity.
+I conduct courses in Mindfulness, through my private practice and as an outside provider for schools, bringing the teaching of this beautiful model. Mindfulness as a practice is fast becoming popular as a method of returning to clarity and calm. With continued research into the benefits of Mindfulness with children, these programs are showing profound and lasting results for the individuals, and improvements in whole cultures and productivity.
 
 Mindfulness courses are held on request also one to one. They can be tailored to suit, with courses for Primary Schools running up to 8 weeks, and courses for High Schools, up to 23 weeks in duration. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d43f1319-ff05-46de-b270-bf6c6bb73eeb.jpg)
 
