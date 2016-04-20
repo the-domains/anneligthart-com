@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ' '
-datePublished: '2016-04-19T02:39:41.717Z'
-dateModified: '2016-04-19T02:33:03.231Z'
+description: ''
+datePublished: '2016-04-20T06:51:07.541Z'
+dateModified: '2016-04-20T06:50:04.893Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-09-resources.md
@@ -28,13 +28,19 @@ _type: Article
 
 ## ****RESOURCES
 
-**Anthroposophic resources - **
+**_Anthroposophic resources - _**
 
 **http://www.goetheanum.org/Herzlich-Willkommen-beim-Goetheanum.45.0.html?&L=1**
 
 **http://www.rsarchive.org**
 
 **https://www.google.com.au/search?client=safari&rls=en&q=steiner+audio&ie=UTF-8&oe=UTF-8&gfe\_rd=cr&ei=NAISV43cB6vu8we2xLLwBw**
+
+**_Process Oriented Psychology resources - _**
+
+**http://www.anzpop.org**
+
+****
 
 ****
 
