@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'As part of the massage treatment, I use stretching and release technique through the jaw, shoulders, hips and feet. Breathing is also given attention and it is important to work with the scalp and feet to ensure deep relaxation. '
-datePublished: '2016-04-20T12:06:45.395Z'
-dateModified: '2016-04-20T12:06:23.025Z'
+datePublished: '2016-04-20T12:24:52.606Z'
+dateModified: '2016-04-20T12:06:47.147Z'
 title: ' MASSAGE '
 author: []
 sourcePath: _posts/2016-03-19-massage-makes-the-world-feel-a-whole-lot-smootherwith-o.md
@@ -32,4 +32,4 @@ Today, we are more and more individual and separate than ever - massage reinvent
 
 As part of the massage treatment, I use stretching and release technique through the jaw, shoulders, hips and feet. Breathing is also given attention and it is important to work with the scalp and feet to ensure deep relaxation. 
 
-No Sexual Massage offered. (Though I do appreciate the therapeutic need for sexual release and connection but do not offer this service. However, I am happy to refer you!)
+No Sexual Massage offered. (Though I do appreciate the therapeutic need for sexual release and connection I do not offer this service.)
