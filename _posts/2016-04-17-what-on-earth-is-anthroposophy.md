@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-20T07:15:07.010Z'
-dateModified: '2016-04-20T07:14:54.529Z'
+datePublished: '2016-04-20T12:35:09.789Z'
+dateModified: '2016-04-20T07:23:16.307Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-17-what-on-earth-is-anthroposophy.md
@@ -25,6 +25,8 @@ _type: Article
 > ****
 > 
 > **WHAT ON EARTH IS ANTHROPOSOPHY?**
+> 
+> ****
 > 
 > ****"Anthroposophy is a path of knowledge aiming to guide the spiritual element in the human being to the spiritual in the universe." - Rudolf Steiner 
 
