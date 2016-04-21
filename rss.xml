@@ -4,7 +4,7 @@
         <description><![CDATA[AnneLigthart.com]]></description>
         <link>https://thegrid.ai/anneligthart-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 06:35:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 10:09:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/anneligthart-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/anneligthart-com/efcc1bed-fd40-4f03-ba6f-5e8020712906/index.html</link>
             <guid isPermaLink="false">efcc1bed-fd40-4f03-ba6f-5e8020712906</guid>
             <pubDate>Wed, 20 Apr 2016 12:46:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aada4484-c1df-40fc-852b-d6a40c3889cd.jpg">]]></description>
+            <link>https://thegrid.ai/anneligthart-com/resources/index.html</link>
+            <guid isPermaLink="false">3592a63d-6012-47f8-a819-698da19b96a5</guid>
+            <pubDate>Thu, 21 Apr 2016 10:08:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/anneligthart-com/massage-makes-the-world-feel-a-whole-lot-smootherwith-o/index.html</link>
             <guid isPermaLink="false">d3cf3ce2-0b80-4409-bb61-1bdf235374f4</guid>
             <pubDate>Wed, 20 Apr 2016 12:24:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/76b5ee57-a2a9-4fca-899e-ce6648874cff.jpg">]]></description>
-            <link>https://thegrid.ai/anneligthart-com/did/index.html</link>
-            <guid isPermaLink="false">e1bf6d98-ca4d-41e1-89e3-fdd72e3df768</guid>
-            <pubDate>Wed, 20 Apr 2016 07:01:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
