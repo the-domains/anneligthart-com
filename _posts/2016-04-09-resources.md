@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-20T06:51:07.541Z'
-dateModified: '2016-04-20T06:50:04.893Z'
+datePublished: '2016-04-21T10:08:21.710Z'
+dateModified: '2016-04-21T10:08:20.984Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-09-resources.md
