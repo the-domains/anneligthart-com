@@ -4,7 +4,7 @@
         <description><![CDATA[AnneLigthart.com]]></description>
         <link>https://thegrid.ai/anneligthart-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 02:05:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 09:46:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/anneligthart-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/anneligthart-com/efcc1bed-fd40-4f03-ba6f-5e8020712906/index.html</link>
             <guid isPermaLink="false">efcc1bed-fd40-4f03-ba6f-5e8020712906</guid>
             <pubDate>Wed, 20 Apr 2016 12:46:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Exercises for fun!]]></title>
+            <description><![CDATA[<article><h1>Exercises for fun!</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/58d58203-2b9d-417f-a4f2-5251e0560344.jpg"></article>]]></description>
+            <link>https://thegrid.ai/anneligthart-com/exercises-for-fun/index.html</link>
+            <guid isPermaLink="false">9679904c-a4e6-4736-8399-bdfd73ef2ab1</guid>
+            <pubDate>Fri, 22 Apr 2016 09:46:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/anneligthart-com/contact/index.html</link>
             <guid isPermaLink="false">d4c34877-7a7b-46ac-a852-84bbb033d513</guid>
             <pubDate>Thu, 21 Apr 2016 05:32:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/81d93b08-d6a5-4efb-b173-c4f13933fe76.jpg">]]></description>
-            <link>https://thegrid.ai/anneligthart-com/a4957baf-c75e-4056-b58b-dad5d54f35d8/index.html</link>
-            <guid isPermaLink="false">a4957baf-c75e-4056-b58b-dad5d54f35d8</guid>
-            <pubDate>Thu, 21 Apr 2016 04:56:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
