@@ -4,7 +4,7 @@
         <description><![CDATA[AnneLigthart.com]]></description>
         <link>https://thegrid.ai/anneligthart-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 09:56:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 10:13:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/anneligthart-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/anneligthart-com/efcc1bed-fd40-4f03-ba6f-5e8020712906/index.html</link>
             <guid isPermaLink="false">efcc1bed-fd40-4f03-ba6f-5e8020712906</guid>
             <pubDate>Wed, 20 Apr 2016 12:46:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p> ABOUT</p>]]></description>
+            <link>https://thegrid.ai/anneligthart-com/d82146ab-a667-4990-959a-c6ba18e5dd31/index.html</link>
+            <guid isPermaLink="false">d82146ab-a667-4990-959a-c6ba18e5dd31</guid>
+            <pubDate>Fri, 22 Apr 2016 10:13:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ LIBRARY]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/anneligthart-com/what-on-earth-is-anthroposophy/index.html</link>
             <guid isPermaLink="false">a7425920-ca99-4b1b-ba96-643a5afe3534</guid>
             <pubDate>Thu, 21 Apr 2016 05:33:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a0ebb6e-1830-4bd4-b69e-d16a82c43ded.jpg">]]></description>
-            <link>https://thegrid.ai/anneligthart-com/contact/index.html</link>
-            <guid isPermaLink="false">d4c34877-7a7b-46ac-a852-84bbb033d513</guid>
-            <pubDate>Thu, 21 Apr 2016 05:32:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
