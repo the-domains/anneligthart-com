@@ -4,7 +4,7 @@
         <description><![CDATA[AnneLigthart.com]]></description>
         <link>https://thegrid.ai/anneligthart-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 10:48:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 11:48:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/anneligthart-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/anneligthart-com/efcc1bed-fd40-4f03-ba6f-5e8020712906/index.html</link>
             <guid isPermaLink="false">efcc1bed-fd40-4f03-ba6f-5e8020712906</guid>
             <pubDate>Wed, 20 Apr 2016 12:46:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p></p>]]></description>
+            <link>https://thegrid.ai/anneligthart-com/a4957baf-c75e-4056-b58b-dad5d54f35d8/index.html</link>
+            <guid isPermaLink="false">a4957baf-c75e-4056-b58b-dad5d54f35d8</guid>
+            <pubDate>Fri, 22 Apr 2016 11:48:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/anneligthart-com/164e7a96-b5b8-44a9-b975-10b388e12dc1/index.html</link>
             <guid isPermaLink="false">164e7a96-b5b8-44a9-b975-10b388e12dc1</guid>
             <pubDate>Thu, 21 Apr 2016 06:34:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e356a68-2862-419e-9e8b-b4d9a9afbbb9.jpg">]]></description>
-            <link>https://thegrid.ai/anneligthart-com/what-on-earth-is-anthroposophy/index.html</link>
-            <guid isPermaLink="false">a7425920-ca99-4b1b-ba96-643a5afe3534</guid>
-            <pubDate>Thu, 21 Apr 2016 05:33:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
