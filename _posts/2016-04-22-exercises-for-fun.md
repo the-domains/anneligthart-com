@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-22T09:46:01.013Z'
-dateModified: '2016-04-22T06:11:07.710Z'
-title: 'Exercises for fun!'
+datePublished: '2016-04-22T23:22:27.392Z'
+dateModified: '2016-04-22T10:02:03.818Z'
+title: ''
 author: []
+sourcePath: _posts/2016-04-22-exercises-for-fun.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-22-exercises-for-fun.md
-published: true
 url: exercises-for-fun/index.html
 _type: Article
 
