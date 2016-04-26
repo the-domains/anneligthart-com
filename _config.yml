@@ -1,6 +1,6 @@
 name: AnneLigthart.com
 favicon: null
-layout_spectrum: 0.498
+layout_spectrum: 0.42986
 typography_spectrum: 0.15331
 title: AnneLigthart.com
 cta:
@@ -23,7 +23,7 @@ color:
     - '#e0e0e2'
     - '#9acdff'
   brandStrength: 0.375
-  lightness: 0.3125
+  lightness: 0.25
   saturation: 0.25
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.25
 purpose: []
