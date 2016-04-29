@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Massage is simply about feeling. '
-datePublished: '2016-04-28T09:42:34.339Z'
-dateModified: '2016-04-27T10:56:49.104Z'
+datePublished: '2016-04-29T06:50:55.139Z'
+dateModified: '2016-04-29T06:49:23.006Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-19-massage-makes-the-world-feel-a-whole-lot-smootherwith-o.md
@@ -22,11 +22,9 @@ url: massage-makes-the-world-feel-a-whole-lot-smootherwith-o/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e7f631d-93cf-4d03-957e-3a50c978d68d.jpg)
-
 Massage is simply about feeling. 
 
-Gifted through the hands, skin meets skin as our primary organ for feeling. That's why, when I work with massage in my practice it is mostly silent. We speak minimally, to allow the skin to be the receptacle of feeling. Music is included very softly in the background and I have chosen each track to facilitate feeling. There are few places left where silence is offered, and this is one of them. 
+Gifted through the hands, skin meets skin as our primary organ for feeling. That's why, when I work with massage in my practice it is mostly silent. We speak minimally, to allow the skin to be the receptacle of feeling. Music is included very softly in the background and I have chosen each track to facilitate feeling. There are few places left where silence is offered, and this is one of them. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e7f631d-93cf-4d03-957e-3a50c978d68d.jpg)
 
 It is a wonderful place to commence your change, or end your day...with over twenty years of hands on experience in bodywork and massage, I have evolved my own form and style. No massage is the same, and it is created as needed for that particular session. 
 
@@ -34,4 +32,4 @@ Today, we are more and more individual and separate than ever - massage reinvent
 
 As part of the massage treatment, I use stretching and release technique through the jaw, shoulders, hips and feet. Breathing is also given attention and it is important to work with the scalp and feet to ensure deep relaxation. 
 
-No Sexual Massage offered.
+* No Sexual Massage offered.
