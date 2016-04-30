@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Massage is simply about feeling. '
-datePublished: '2016-04-29T06:50:55.139Z'
-dateModified: '2016-04-29T06:49:23.006Z'
+datePublished: '2016-04-30T07:42:58.071Z'
+dateModified: '2016-04-29T06:50:59.506Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-19-massage-makes-the-world-feel-a-whole-lot-smootherwith-o.md
@@ -31,5 +31,7 @@ It is a wonderful place to commence your change, or end your day...with over twe
 Today, we are more and more individual and separate than ever - massage reinvents the experience of connection that is compromised in our present world. It is not isolated to simply a physical giving and receiving, but a connection between both giver and receiver. Although the medium is through the body, this is only a gateway to a deeply rich and healing experience for both therapist and client. When massage is treated with the potential it truly has, it can provide a connective passage to health. 
 
 As part of the massage treatment, I use stretching and release technique through the jaw, shoulders, hips and feet. Breathing is also given attention and it is important to work with the scalp and feet to ensure deep relaxation. 
+
+-- "I regard consciousness as fundamental. I regard matter as a derivative of consciousness." - Max Planck, physicist. 
 
 * No Sexual Massage offered.
