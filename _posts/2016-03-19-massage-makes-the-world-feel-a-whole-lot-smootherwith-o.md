@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Massage is simply about feeling. '
-datePublished: '2016-04-30T07:42:58.071Z'
-dateModified: '2016-04-29T06:50:59.506Z'
+description: "Gifted through the hands, skin meets skin as our primary organ for feeling. That's why, when I work with massage in my practice it is mostly silent. We speak minimally, to allow the skin to be the receptacle of feeling. Music is included very softly in the background and I have chosen each track to facilitate feeling. There are few places left where silence is offered, and this is one of them. "
+datePublished: '2016-05-02T07:11:42.056Z'
+dateModified: '2016-05-02T07:11:16.396Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-19-massage-makes-the-world-feel-a-whole-lot-smootherwith-o.md
@@ -22,7 +22,7 @@ url: massage-makes-the-world-feel-a-whole-lot-smootherwith-o/index.html
 _type: Article
 
 ---
-Massage is simply about feeling. 
+## Massage is simply about feeling. 
 
 Gifted through the hands, skin meets skin as our primary organ for feeling. That's why, when I work with massage in my practice it is mostly silent. We speak minimally, to allow the skin to be the receptacle of feeling. Music is included very softly in the background and I have chosen each track to facilitate feeling. There are few places left where silence is offered, and this is one of them. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e7f631d-93cf-4d03-957e-3a50c978d68d.jpg)
 
